@@ -1,6 +1,7 @@
-import React,{useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 
-import {Table, Row, Col} from "react-bootstrap";
+import { Table, Row, Col } from "react-bootstrap";
+
 
 const EmployeeTable = props => {
     console.log(props);
